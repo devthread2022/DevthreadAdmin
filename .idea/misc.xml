@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/drawable/buttonlayout.xml" value="0.2203125" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/drawable/custom_lock_icon.xml" value="0.2203125" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/drawable/l_back.xml" value="0.2203125" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/drawable/listitemback.xml" value="0.2203125" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/assigned_order_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/assigned_project_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/attendance_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/demo_request_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_assigned_work_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_attendance.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_attendance_history.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_available_projects.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_back_end.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_backend.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_calender.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_cancelled_order.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_chat.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_chats.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_coupons.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_customer_chat.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_dashboard.xml" value="0.22" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_demo_request.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_demo_requests.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_demos.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_deployment.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_deployment_projects.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_front_end.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_frontend.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_holiday_calender.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_leave.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_leave_history.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_mobile_items.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_notification.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_notification2.xml" value="0.19947916666666668" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_ordered_items.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_privacy.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_profile2.xml" value="0.19947916666666668" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_projects.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_queries.xml" value="0.21145833333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_raised_tickets.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_schedule.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_settings.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_settings2.xml" value="0.19947916666666668" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_support.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_terms.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_testimonial.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_testing.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_testing_projects.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_tickets.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_timesheet.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_timesheet2.xml" value="0.19947916666666668" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_tracking.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_transactions.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_u_i.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_u_x.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_update_backend_status.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_update_demo_request.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_update_deployment_status.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_update_frontend_status.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_update_testing_status.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_update_u_x_status.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_updated_work.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_user_profile.xml" value="0.19947916666666668" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_users.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_web_items.xml" value="0.19739583333333333" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_work_history.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/fragment_work_update.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/holiday_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/layout_images.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/layout_product_added_feature_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/leave_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/notification_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/tandc_item_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/ticket_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/work_update.xml" value="0.20416666666666666" />
+        <entry key="..\:/DevThreadAdmin/app/src/main/res/layout/work_update_layout.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
